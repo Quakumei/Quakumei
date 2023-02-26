@@ -13,5 +13,5 @@ My name's Ilya and I want to become a great machine learning engineer!
 
 
 ## Contact me:
-- Telegram - [@Quakumei](t.me/Quakumei)
+- Telegram - [@Quakumei](t.me/Quakumei) & [проэмэль](t.me/proemel)
 - VK - [@druzhelubnyy](vk.com/druzhelubnyy)
