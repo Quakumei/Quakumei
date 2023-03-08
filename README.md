@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ilya Tampio</h1>
+<h1 align="center">Hi 👋, I'm Ilya Tampio (he/him)</h1>
 <h3 align="center">Aspiring ML Engineer</h3>
 
 
