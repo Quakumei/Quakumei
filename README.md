@@ -24,4 +24,39 @@
 </a>
 </p>
 
-- [Resume link (RU)](https://drive.google.com/file/d/1ulRBCw8JwIZoR3MBYLebWNt-RY7iIdHx/view?usp=share_link)
+---
+
+## Projects that I'm proud of
+
+### [Multilabel classification model - 3rd place on Hackathon](https://github.com/i-pro-lizaalert/ml-torch-fastapi)
+
+"Cyfrovoi proriv 2022" hackathon 3rd place winner (team: I PRO) - [link](https://hacks-ai.ru/hackathons/757119)
+
+Work done:
+- Fixed data disbalance
+- Composed new deep model architecture based on adding heads to ResNet34 model
+- Trained model to perform inference
+
+Technologies used:
+- PyTorch, TorchVision
+- ResNet34
+- FastAPI
+
+---
+### [Fake dairy products classification mobile app](https://github.com/thevladoss/maslo_classifier)
+
+Project for [Rosselhoznadzor](https://fsvps.gov.ru/ru)
+
+Work done:
+- Maintained communication with the customer, drawing up the necessary data requirements and explaining the results obtained by the model
+- Visualised separation of classes on PCA
+- Enabled autonomous work of model on mobile device
+
+Technologies used:
+- Dart
+- Matplotlib
+- sklearn
+
+
+
+[Resume link (RU)](https://drive.google.com/file/d/1ulRBCw8JwIZoR3MBYLebWNt-RY7iIdHx/view?usp=share_link)
