@@ -1,3 +1,6 @@
+- [Ссылка на резюме (RU)](https://drive.google.com/file/d/1ulRBCw8JwIZoR3MBYLebWNt-RY7iIdHx/view?usp=share_link)
+
+
 <h1 align="center">Hi 👋, I'm Ilya Tampio (he/him)</h1>
 <h3 align="center">Aspiring ML Engineer</h3>
 
@@ -59,4 +62,3 @@ Technologies used:
 
 
 
-[Resume link (RU)](https://drive.google.com/file/d/1ulRBCw8JwIZoR3MBYLebWNt-RY7iIdHx/view?usp=share_link)
