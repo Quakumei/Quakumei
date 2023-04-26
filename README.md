@@ -61,5 +61,19 @@ Technologies used:
 - Matplotlib
 - sklearn
 
+---
+### [Telegram bot AI Knowledge Database FAQ assistant](https://github.com/Quakumei/znayu-ai)
+
+Project for [EESTECH CHALLENGE](https://codenrock.com/contests/hackathon-eestech-challenge#/)
+
+Work done:
+- Used OpenAI API and TF-IDF to provide quality answers to predefined knowledge database
+- Expanding database in runtime
+
+Techonologies used:
+- OpenAI API
+- TF-IDF
+- aiogram
+
 
 
