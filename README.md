@@ -1,4 +1,4 @@
-- [Ссылка на резюме (RU)](https://drive.google.com/file/d/1ulRBCw8JwIZoR3MBYLebWNt-RY7iIdHx/view?usp=share_link)
+- [Ссылка на резюме (RU)](https://drive.google.com/file/d/1lxK9nphd2h81kRCq7B4JkFa7c4qE8Jnw/view)
 - [Сертификаты \ Весь опыт](https://github.com/Quakumei/ds-certificates)
 
 
