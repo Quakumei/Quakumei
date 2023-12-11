@@ -30,7 +30,7 @@
 
 ---
 
-## Projects that I'm proud of
+## Projects that I'm proud of (outdated, contact me for updated info)
 
 ### [Multilabel classification model - 3rd place on Hackathon](https://github.com/i-pro-lizaalert/ml-torch-fastapi)
 
