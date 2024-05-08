@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ilya Tampio</h1>
-<h3 align="center">Aspiring ML Engineer</h3>
+<h3 align="center">Junior ML Engineer and Student at SPbSTU</h3>
 
 
 <p align="center">
