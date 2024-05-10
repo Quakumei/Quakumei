@@ -1,5 +1,8 @@
-- [Ссылка на резюме (RU) (...будет обновлено)](https://drive.google.com/file/d/1lxK9nphd2h81kRCq7B4JkFa7c4qE8Jnw/view)
-- [Сертификаты \ Весь опыт](https://github.com/Quakumei/ds-certificates)
+*Importants*
+- [Резюме (RU) (...будет обновлено)](https://drive.google.com/file/d/1lxK9nphd2h81kRCq7B4JkFa7c4qE8Jnw/view)
+- [Сертификаты \ достижения](https://github.com/Quakumei/ds-certificates)
+- [Персональный блог](https://quakumei.github.io/blog)
+- [Telegram](https://t.me/Quakumei)
 
 
 <h1 align="center">Hi 👋, I'm Ilya Tampio</h1>
