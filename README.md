@@ -1,5 +1,5 @@
 *Importants*
-- [Сертификаты \ достижения](https://github.com/Quakumei/ds-certificates)
+- [Достижения](https://github.com/Quakumei/ds-certificates)
 - [Telegram](https://t.me/Quakumei)
 
 
